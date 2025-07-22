@@ -1,7 +1,7 @@
-# mi primer proyecto con git
-este es el proyecto de prueba para el curso de fundamentos de programacion.
+# Mi primer proyecto con git.
+Este es el proyecto de prueba para el curso de fundamentos de programacion.
 
-**Autor** deybid castillo V
--**lenguaje favorito** python
--**edad** 17 años
--**hobby** dormir y jugar videojuegos
+**Autor** Deybid Castillo V
+-**Lenguaje favorito** Python
+-**Edad** 17 años
+-**Hobby** Dormir, comer y jugar videojuegos
